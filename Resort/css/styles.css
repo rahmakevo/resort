@@ -43,8 +43,6 @@ a:hover{
   color: blue;
 }
 div.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
     float: left;
     width: 100%;
 }
@@ -54,8 +52,9 @@ div.gallery:hover {
 }
 
 div.gallery img {
-    width: 100%;
+    width: auto;
     height: auto;
+
 }
 
 div.desc {
