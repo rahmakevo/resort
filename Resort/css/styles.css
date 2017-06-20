@@ -1,0 +1,63 @@
+nav ul{
+  list-style: none;
+  background-color: pink;
+  padding: 30px;
+  font-family: "Times New Roman", Times, sans-serif;
+  font-style: italic;
+  font-size: 100%;
+}
+
+nav ul li{
+  display: inline-block;
+}
+
+nav ul li{
+  padding: 5px 15px;
+}
+
+nav ul li:hover{
+  color: blue;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.about ul {
+  list-style: none;
+  background-color: pink;
+  padding: 30px;
+}
+.about ul li {
+  display: inline-block;
+}
+.about ul li {
+  padding: 5px 15px;
+}
+.about ul li:hover{
+  color: blue;
+}
+div.gallery {
+    float: left;
+    width: 100%;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: auto;
+    height: auto;
+
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}

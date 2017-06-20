@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My Resort
 This is a website where I have created a resort website.
 
@@ -19,6 +18,3 @@ I am using the new Jquery for my bootstrap
 
 ###### License
 Copyright 2017 Moringa School.
-=======
-# resort
->>>>>>> cbfbcf13527fe7004401accee2f443eaad5b1b2a
